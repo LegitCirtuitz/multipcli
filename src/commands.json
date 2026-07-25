@@ -1,0 +1,7 @@
+{
+    "help": "scripts/help.bat",
+    "updateUsrname": "scripts/updateUsername.bat",
+    "exit": "scripts/exit.bat",
+    "quit": "scripts/exit.bat",
+    "packages": "scripts/packages/main.bat"
+}
