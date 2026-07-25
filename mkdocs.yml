@@ -1,8 +1,8 @@
 site_name: My Documentation Site
-site_name: OSCLI
-site_url: https://LegitCirtuitz.github.io/oscli/
+site_name: MP CLI
+site_url: https://LegitCirtuitz.github.io/mpcli/
 site_author: LegitCirtuitz
-site_description: OS CLI
+site_description: Multi Purpose Command Line Interface
 
 repo_name: LegitCirtuitz/oscli
 repo_url: https://github.com/LegitCirtuitz/oscli
