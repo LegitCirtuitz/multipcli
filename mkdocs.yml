@@ -129,3 +129,4 @@ nav:
     - Introduction: intro.md
   - Learn:
     - Menu: learn/index.md
+    - Services: learn/services/getting-started.md
