@@ -8,4 +8,12 @@
 
     [:octicons-arrow-right-24: Getting started](services/getting-started.md)
 
+-   **EIW Codes**
+
+   ---
+
+   Get started on learning what specific Error/Info/Warning Codes indicate.
+
+   [:octicons-arror-right-24: Learn EIW Codes](codes/eiw.md)
+
 </div>
