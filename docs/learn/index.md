@@ -12,8 +12,7 @@
 
     ---
 
-    Get started on learning what specific Error/Info/Warning Codes indicate.
+    Get Started on learning Error/Info/Warning Codes.
 
-    [:octicons-arror-right-24: Learn EIW Codes](codes/eiw.md)
-
+    [:octicons-arrow-right-24: EIW Codes](codes/eiw.md)
 </div>
