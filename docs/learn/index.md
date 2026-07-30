@@ -10,10 +10,10 @@
 
 -   **EIW Codes**
 
-   ---
+    ---
 
-   Get started on learning what specific Error/Info/Warning Codes indicate.
+    Get started on learning what specific Error/Info/Warning Codes indicate.
 
-   [:octicons-arror-right-24: Learn EIW Codes](codes/eiw.md)
+    [:octicons-arror-right-24: Learn EIW Codes](codes/eiw.md)
 
 </div>
