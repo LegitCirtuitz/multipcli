@@ -62,6 +62,21 @@ plugins:
   - minify:
       minify_html: true
   - redirects
+  - mkdocs_quiz:
+      enabled_by_default: true        # Enable quizzes by default on all pages
+      auto_number: false              # Auto-number questions (Question 1:, Question 2:, etc.)
+      show_correct: false              # Show correct answers when user gets it wrong
+      auto_submit: false              # Auto-submit single-choice quizzes on selection
+      disable_after_submit: true      # Disable question after first submission
+      shuffle_answers: false          # Randomize the order of answers
+      show_progress: true             # Show progress tracker sidebar and mobile bar
+      progress_sidebar_position: top  # Position of progress tracker: "top" or "bottom"
+      confetti: true                  # Show confetti animation when all quizzes completed
+      embed_source: true              # Embed quiz source in HTML for CLI URL fetching
+      language: en                    # Default language for quiz UI
+      language_patterns: []           # Auto-detect language based on file paths
+      custom_translations: {}         # Custom translation files
+      cli_run: {}                     # CLI runner menu configuration
 
 extra:
   status:
