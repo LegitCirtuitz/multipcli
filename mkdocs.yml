@@ -125,6 +125,6 @@ markdown_extensions:
 
 nav:
   - Getting Started:
-    - Introduction: intro.md
+    - Introduction: index.md
   - Learn:
     - Menu: learn/index.md
