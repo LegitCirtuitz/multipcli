@@ -12,7 +12,7 @@
 
     ---
 
-    Test Your knowlegde, without a certification.
+    Test Your knowledge, without a certification.
 
     [:octicons-arrow-right-24: Assessments](assessments.md)
 
