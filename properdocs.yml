@@ -143,3 +143,7 @@ nav:
     - Introduction: index.md
   - Learn:
     - Menu: learn/main.md
+    - Modules: learn/modules.md
+    - Assessments: learn/assessments.md
+  - Bulletin:
+    - Main Menu: bulletin/main.md
