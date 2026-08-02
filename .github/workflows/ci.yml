@@ -23,7 +23,7 @@ jobs:
           python-version: 3.x
       - run: pip install properdocs mkdocs-materialx
       - run: pip install mkdocs-quiz
-      - run: paperdocs build
+      - run: properdocs build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./site
