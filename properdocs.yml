@@ -77,6 +77,7 @@ plugins:
       language_patterns: []           # Auto-detect language based on file paths
       custom_translations: {}         # Custom translation files
       cli_run: {}                     # CLI runner menu configuration
+- document-dates
 
 extra:
   status:
