@@ -10,10 +10,10 @@
 
 -  **Documentation Migration**
 
-  ---
+   ---
 
-  Multi Purpose CLI Documentation Migration [August 2nd 2026]
+   Multi Purpose CLI Documentation Migration [August 2nd 2026]
 
-  [:octicons-arrow-right-24: READ MORE](DocsMigrate.md)
+   [:octicons-arrow-right-24: READ MORE](DocsMigrate.md)
 
 </div>
