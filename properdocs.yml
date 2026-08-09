@@ -147,5 +147,7 @@ nav:
     - Menu: learn/main.md
     - Modules: learn/modules.md
     - Assessments: learn/assessments.md
+  - Progress:
+    - Total: progress/main.md
   - Bulletin:
     - Main Menu: bulletin/main.md
