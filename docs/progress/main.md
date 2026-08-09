@@ -6,9 +6,9 @@ In this page, you'll get to know our current development progress.
 
 Heres our Documentation Development Progress.
 
-[=8% "8% Done"]{: .candystripe .candystripe-animate}
+[=8% "8%"]{: .candystripe .candystripe-animate}
 
 ## CLI Progress
 Heres our CLI Development Progress.
 
-[=2% "2% Done"]{: .candystripe .candystripe-animate}
+[=2% "2%"]{: .candystripe .candystripe-animate}
