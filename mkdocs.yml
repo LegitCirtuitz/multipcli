@@ -8,7 +8,7 @@ repo_url: https://github.com/LegitCirtuitz/multipcli
 
 copyright: Copyright &copy; 2026 LegitCirtuitz
 theme:
-  name: materialx
+  name: material
   logo: assets/logo.png
   favicon: assets/logo.png
   features:
